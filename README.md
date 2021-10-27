@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Tommins-IT/Tommins-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Tommy - AKA Tommodev 👋
 
-Here are some ideas to get you started:
+## He/him, 15 yo & addicted to coding
+- 🤖 My bot: [RedEagle](https://github.com/Tommins-IT/redeagle)
+- 📙 Learning [Diskord](https://github.com/diskord-dev/diskord)
+- 👯 Looking to collaborate with other developers
+- 🥅 2021 Goal: making my bot better
+- 🏎️ Fun fact: I love driving go-karts and playing tennis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me:
+[YouTube](https://www.youtube.com/channel/UC23tO0Vvtl7S7nWbwXachHg)
+[Twitter](https://twitter.com/tomm_dev)
+[Discord server](https://discord.gg/rVHeQU4B9S)
