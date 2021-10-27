@@ -10,5 +10,7 @@
 
 ### Contact me:
 [YouTube](https://www.youtube.com/channel/UC23tO0Vvtl7S7nWbwXachHg)
+
 [Twitter](https://twitter.com/tomm_dev)
+
 [Discord server](https://discord.gg/rVHeQU4B9S)
