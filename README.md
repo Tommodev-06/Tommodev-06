@@ -1,9 +1,8 @@
-
 ### Hi there, I'm Tommy - AKA Tommodev 👋
 
 ## He/him, 15 yo & addicted to coding
 - 🤖 My bot: [RedEagle](https://github.com/Tommins-IT/redeagle)
-- 📙 Learning [Diskord](https://github.com/diskord-dev/diskord)
+- 📙 Learning SQLite
 - 👯 Looking to collaborate with other developers
 - 🥅 2021 Goal: making my bot better
 - 🏎️ Fun fact: I love driving go-karts and playing tennis
@@ -13,4 +12,4 @@
 
 [Twitter](https://twitter.com/tomm_dev)
 
-[Discord server](https://discord.gg/rVHeQU4B9S)
+[Discord server](https://discord.gg/d8ZsKepmQJ)
