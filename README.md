@@ -1,10 +1,10 @@
 ### Hi there, I'm Tommy - AKA Tommodev 👋
 
 ## He/him, 15 yo & addicted to coding
-- 🤖 My bot: [RedEagle](https://github.com/Tommins-IT/redeagle)
+- 🤖 My bot: [RedEagle](https://github.com/Tommodev-06/RedEagle)
 - 📙 Learning SQLite
 - 👯 Looking to collaborate with other developers
-- 🥅 2021 Goal: making my bot better
+- 🥅 2022 Goal: making my bot better
 - 🏎️ Fun fact: I love driving go-karts and playing tennis
 
 ### Contact me:
