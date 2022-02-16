@@ -1,15 +1,21 @@
-### Hi there, I'm Tommy - AKA Tommodev 👋
+## Hello world 👋
 
-## He/him, 15 yo & addicted to coding
-- 🤖 My bot: [RedEagle](https://github.com/Tommodev-06/RedEagle)
-- 📙 Learning SQLite
-- 👯 Looking to collaborate with other developers
-- 🥅 2022 Goal: making my bot better
-- 🏎️ Fun fact: I love driving go-karts and playing tennis
+I'm Tommodev, a 15 years old Python & JavaScript developer from Italy.  
+  
+I'm currently working on too many projects, *definitely*:  
+- [RedEagle](https://dsc.gg/redeagle) - my multipurpose bot which, I don't know why, is full of bugs 
+- Article - a new Discord bot coming soon...
+- Jarvis - another Discord bot made with my friend that hasn't been developed in a while but shhh
 
-### Contact me:
-[YouTube](https://www.youtube.com/channel/UC23tO0Vvtl7S7nWbwXachHg)
+I am also a go-kart driver and I don't suck like in programming.
 
-[Twitter](https://twitter.com/tomm_dev)
+### Links
+[YouTube](https://www.youtube.com/channel/UC23tO0Vvtl7S7nWbwXachHg)  
+[Twitter](https://twitter.com/tomm_dev)  
+[Website](https://tommodev.ml)  
+[Discord Profile](https://discord.com/users/825292137338765333)  
+[Discord Server](https://discord.gg/d8ZsKepmQJ)
 
-[Discord server](https://discord.gg/d8ZsKepmQJ)
+## Stats
+[![Tommodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommodev-06&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommodev-06&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
