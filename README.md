@@ -4,8 +4,8 @@ I'm Tommodev, a 15 years old Python & JavaScript developer from Italy.
   
 I'm currently working on too many projects, *definitely*:  
 - [RedEagle](https://dsc.gg/redeagle) - my multipurpose bot which, I don't know why, is full of bugs 
-- Article - a new Discord bot coming soon...
-- Jarvis - another Discord bot made with my friend that hasn't been developed in a while but shhh
+- [Article](https://github.com/article-bot) - a new Discord bot coming soon...
+- [Jarvis](https://github.com/gtx-development) - another Discord bot made with my friend [RangerQuelloVero](https://github.com/RangerQuelloVero)
 
 I am also a go-kart driver and I don't suck like in programming.
 
