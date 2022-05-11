@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-I'm Tommodev, a 15 years old Python & JavaScript developer from Italy.  
+I'm Tommodev, a 16 years old developer from Italy.  
   
 I'm currently working on too many projects, *definitely*:  
 - [RedEagle](https://dsc.gg/redeagle) - my multipurpose bot which, I don't know why, is full of bugs 
